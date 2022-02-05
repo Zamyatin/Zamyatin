@@ -62,8 +62,6 @@ Interested in the ever-present balance between individual rights and welfare of 
 
 Current burgeoning fascination with [Web3](https://bernardmarr.com/what-is-web3-all-about-an-easy-explanation-with-examples/) distributed web, [trustless system](https://law.mit.edu/pub/trustinatrustlesssystem/release/1) design, digital privacy with secured utility, and a coexistant technological and legal framework for personal digital rights that appreciates the needs of society, *and* a healthy respect for nature. 
 
-I share [Moxie Marlinspike's](https://moxie.org/) sentiment, "I don't share the same generational excitement for moving all aspects of life to an instrumented economy."[1](https://moxie.org/2022/01/07/web3-first-impressions.html). *But* I recognize a certain inevitability. I *also* recognize there are valid use cases for distributed ledgers in areas where massive legal frameworks such as that in the US which enable ownership and trade, simply don't exist, or are so corrupt to be worse than not existing at all. The challenges of [inclusive accountability](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/) and simple-to-run *distributed* infrastructure (as the preference of the Web3 paradigm avoids centralization) *are* real challenges. But, you know, that's what makes all this stuff cool and geeky to poke around at. It feels like the old "Web1" days, when anything's possible.
-
 I love bright colors - hot pink and bright blue are my jam. Since it's not [the '80s anymore](https://www.pinterest.com/pin/193584483959826498/), I wear black, like, a LOT. I am terrible at UI. Don't ask me to draw boxes on the screen because color choice and shapes make no sense to me. 
 
 :heart: Deeply appreciative and enraptured by people who understand that visual art and design. It's magic. :heart:
@@ -120,6 +118,11 @@ By comparison, I chose to maintain a healthy suspicion around Azure (still remem
 | [Polkadot](https://polkadot.network/technology/) | A scalable, interoperable & secure network protocol for the next web. Written in Rust |
 | [Cosmos](https://cosmos.network/) | The blockchain of blockchains, enabling bridges and hubs for cross-chain communication. Probably the hardest-core ideologues, like the Mozilla Foundation of the distributed ledger |
 
+### Random Thoughts on Blockchain Tech
+1) I agree with [Moxie Marlinspike's](https://moxie.org/) sentiment, "I don't share the same generational excitement for moving all aspects of life to an instrumented economy."[^1].  However, I recognize a certain inevitability. I *also* recognize there are valid use cases for blockchain ledgers and dApps in areas where massive legal frameworks such as that in the US which enable ownership and trade, simply don't exist, or are so corrupt as to be worse than not existing at all. 
+
+1) The challenges of [inclusive accountability](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/) and simple-to-run *distributed* infrastructure (as the preference of the Web3 paradigm avoids centralization) *are* real challenges. But, you know, that's what makes all this stuff cool and geeky to poke around at. It feels like the old "Web1" days, when anything's possible.
+
 ---
 ## My Profile Stats:
 Not that it matters, since most my work the last few years has been in private repos outside of GitHub... but I thought this was cool and I liked the colors. Thanks [Anurag Hazra](https://github.com/anuraghazra) for this sweet tally tool. 
@@ -129,3 +132,5 @@ I'll use this as inspiration/motivation to get busy on OSS again!
 `#GitHubStreetCred!!!`
 
 ![Raj Singh Github Stats](https://github-readme-stats.vercel.app/api?username=zamyatin&count_private=true&show_icons=true&theme=radical)
+
+[^1]: [Moxie Marlinspike, "My first impressions of web3"](https://moxie.org/2022/01/07/web3-first-impressions.html)
