@@ -62,7 +62,7 @@ Current burgeoning fascination with [Web3](https://bernardmarr.com/what-is-web3-
 
 I love bright colors - hot pink and bright blue are my jam. Since it's not [the '80s anymore](https://www.pinterest.com/pin/193584483959826498/), I wear black, like, a LOT. I am terrible at UI. Don't ask me to draw boxes on the screen because color choice and shapes make no sense to me. 
 
-Deeply appreciative and enraptured by people who understand that visual art and design. It's magic. :)
+:heart: Deeply appreciative and enraptured by people who understand that visual art and design. It's magic. :heart:
 
 ---
 ### Cool Internet Policy Quote
