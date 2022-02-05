@@ -119,7 +119,7 @@ By comparison, I chose to maintain a healthy suspicion around Azure (still remem
 | [Cosmos](https://cosmos.network/) | The blockchain of blockchains, enabling bridges and hubs for cross-chain communication. Probably the hardest-core ideologues, like the Mozilla Foundation of the distributed ledger |
 
 ### Random Thoughts on Blockchain Tech
-1) I agree with [Moxie Marlinspike's](https://moxie.org/) sentiment, "I don't share the same generational excitement for moving all aspects of life to an instrumented economy."[^1].  However, I recognize a certain inevitability. I *also* recognize there are valid use cases for blockchain ledgers and dApps in areas where massive legal frameworks such as that in the US which enable ownership and trade, simply don't exist, or are so corrupt as to be worse than not existing at all. 
+1) I agree with Moxie Marlinspike's sentiment, "I don't share the same generational excitement for moving all aspects of life to an instrumented economy."[^1].  However, I recognize a certain inevitability. I *also* recognize there are valid use cases for blockchain ledgers and dApps in areas where massive legal frameworks such as that in the US which enable ownership and trade, simply don't exist, or are so corrupt as to be worse than not existing at all. 
 
 1) The challenges of [inclusive accountability](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/) and simple-to-run *distributed* infrastructure (as the preference of the Web3 paradigm avoids centralization) *are* real challenges. But, you know, that's what makes all this stuff cool and geeky to poke around at. It feels like the old "Web1" days, when anything's possible.
 
