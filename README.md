@@ -8,7 +8,7 @@ Former screenwriter (though I still write for fun).  Now it's mostly technical w
 
 Former (but still practicing non-professionally) political scientist who wonks out to Technology Policy, International Relations, Domestic Fiscal Policy, and old-fashioned (and oft dismissed) Political Theory & Philosophy.
 
-Current DevOps Engineer (`Class: SRE`) with 25 years in the field building and managing networks, datacenters, distributed applications, and enabling Enterprise "cloud native" architecture transitions. Been on all sides - old-school IT, hardware, software, onPrem, cloud, operations _and_ applications engineer. I've worked in enterprise, startups, have consulted others, and been consulted.
+Current DevOps Engineer (`Class: SRE`) with 25 years in the field building and managing networks, datacenters, distributed applications, and enabling Enterprise "cloud native" architecture transitions. Been on all sides - old-school IT, hardware, software, onPrem, cloud, operations _and_ applications engineer. I've worked in enterprise, in startups, have consulted others, and have been consulted.
 
 ---
 ## Tech Stacks
