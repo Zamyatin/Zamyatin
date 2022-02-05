@@ -123,7 +123,6 @@ By comparison, I chose to maintain a healthy suspicion around Azure (still remem
 
 1) The challenges of [inclusive accountability](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/) and simple-to-run *distributed* infrastructure (as the preference of the Web3 paradigm avoids centralization) *are* real challenges. But, you know, that's what makes all this stuff cool and geeky to poke around at. It feels like the old "Web1" days, when anything's possible.
 
-[^1]: [Moxie Marlinspike, "My first impressions of web3"](https://moxie.org/2022/01/07/web3-first-impressions.html)
 ---
 ## My Profile Stats:
 Not that it matters, since most my work the last few years has been in private repos outside of GitHub... but I thought this was cool and I liked the colors. Thanks [Anurag Hazra](https://github.com/anuraghazra) for this sweet tally tool. 
@@ -133,3 +132,5 @@ I'll use this as inspiration/motivation to get busy on OSS again!
 `#GitHubStreetCred!!!`
 
 ![Raj Singh Github Stats](https://github-readme-stats.vercel.app/api?username=zamyatin&count_private=true&show_icons=true&theme=radical)
+
+[^1]: [Moxie Marlinspike, "My first impressions of web3"](https://moxie.org/2022/01/07/web3-first-impressions.html)
