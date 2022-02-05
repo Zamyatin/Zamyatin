@@ -52,9 +52,9 @@ I'm currently trying to figure out how/where the DevOps/SRE practice fits into a
 
 Always looking out for the underdog who is asked of too much. Hates "toil". Builds intelligent robots to reduce toil as much as possible. 
 
-Enjoys playing "go-between" roles that jump between development and operations. Master of none, but I'm comfortable deeper in the stack than most.
+Enjoys playing "go-between" roles that jump between development and operations. Master of none, but I'm comfortable deeper on the right side of the stack than most software devs. Being focused on one side or the other for too long lets me get rusty; hence, playing the diplomat.
 
-Enjoys building and managing teams that break down those silos where possible, or streamlines communication and cooperative effot when separation of concerns is necessary.
+Enjoys building and managing teams that break down silos where possible, or streamlines communication and cooperative effot when separation of concerns is necessary. *Loves* sharing knowledge. :school: :metal:
 
 I've seen the rise and fall of Netscape, AOL, Internet Explorer, MySpace. I've watched a slew of .COMs that missed the point of the 'Net, act as bad faith citizens, and become gatekeepers or data-usurpers of an open and free knowledge transmission system that is founded in trust. I hope it doesn't last, and so, I contribute to OSS, open protocols, and open system designs as much as I can, in whatever capacity I can.
 
