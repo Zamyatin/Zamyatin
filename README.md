@@ -85,11 +85,15 @@ I love bright colors - hot pink and bright blue are my jam. Since it's not [the 
 - Designing fast, modular, dynamic, ephemeral testing environments
 - Discovering new (to me) testing tools and patterns - Fuzzing, PIT Mutation, etc.
 
+---
+### Snotty Opinionation Section!
 Insofar as centralized services are concerned: I really do enjoy [**Google Cloud Platform**](https://cloud.google.com/), [**Azure**](https://azure.microsoft.com/en-us/), and [**Kubernetes**](https://kubernetes.io/). [**Hashicorp**](https://www.hashicorp.com/) stack as well. 
 
-Not all centralized systems are fundamentally "bad". They live for a reason (typically the fact that it's very hard to run a server, or host an application at scale). Privacy and potential antitrust matters aside (yes, that's a *huge* aside), I can recognize that Google is a relatively responsible citizen in the open source community; and GCP is probably the least of the major cloud providers to force vendor lock-in.
+Not all centralized systems are fundamentally "bad". They live for a reason (typically the fact that it's very hard to run a server, or host an application at scale). Privacy and potential antitrust matters aside (yes, that's a *huge* aside), I can recognize that Google is a relatively responsible citizen in the open source community; and GCP is probably the least of the major cloud providers to seek vendor lock-in. Perhaps we can thank [Google's seemingly non-existant deprecation policies](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc) for that.
 
-By comparison, I chose to maintain a healthy suspicion around Azure (still remember the '90s era Microsoft), but they seem to be playing along more considerately now. Jury's still out. I *do* love VSCode, appreciate the [opening of VSCode remote server](https://www.gitpod.io/blog/vscode-server) (good mojo in the dev community), and they haven't wrecked GitHub. So props where props are due, right? 
+By comparison, I chose to maintain a healthy suspicion around Azure (still remember the '90s era Microsoft), but they seem to be playing along more considerately now. Jury's still out. 
+
+...I *do* love VSCode, appreciate the [opening of VSCode remote server](https://www.gitpod.io/blog/vscode-server) (good mojo in the dev community), and they haven't wrecked GitHub. So props where props are due, right? 
 
 
 ---
@@ -108,6 +112,8 @@ By comparison, I chose to maintain a healthy suspicion around Azure (still remem
 | [Web Assembly](https://webassembly.org) | In due time, I believe WASM will replace OCI Containerization - lighter, and benefits from running at near-native speed |
 | [Fuzz Testing Patterns](https://owasp.org/www-community/Fuzzing) | Never personally implemented, definitely cool |
 | [Atlas](https://atlasgo.io) | "Atlas DDL is a declarative, Terraform-like configuration language designed to capture an organization’s data topology in code" |
+
+---
 
 ## Blockchain Geekery
 | Name | Description|
