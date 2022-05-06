@@ -12,19 +12,13 @@ Current DevOps Engineer (`Class: SRE`) with 25 years in the field building and m
 
 ---
 ## Tech Stacks
-I started writing in **Ruby** and raw **JS**, have moved to **Go**, and am currently learning **Rust**. Experience with **Java & Spring Cloud**, although I'm no master. Spring (or anything JRE) seems heavy for microservices, but then again, it's battle tested and there are loads of Java devs in the world. Kotlin could be interesting, but still JRE.
+I started writing in **Ruby** and raw **JS**, I've worked in **Python**, supported **Java/Spring** . Recently I've taken a fascination with **Go**, and have been dabbling in **Rust** and server-side Swift. At the end of the day, I honestly believe Go will replace Python as the defacto language for Operations (if it hasn't already) - including, possibly, scripting. I'm digging Rust because it really forces an understanding of computing, but really holding out hope for server-side Swift as it is far more composable, and seems to provide the same (or possibly better) memory safety. 
 
-**Typescript** is the only way I surive Javascript/Node environments these days. :) Obviously working in systems, I am perfectly comfortable in **bash** and **Powershell** (when necessary).
+My experience with **Java & Spring Cloud** is primarily in application delivery, support, and some debugging. Spring (or anything JRE) always seemed heavy for microservices (especially in the containerized world). Finally, **Typescript** is the only way I surive Javascript/Node environments these days. :) Obviously working in systems, I am perfectly comfortable in **bash** and **Powershell** (though if you're scripting in Bash or Powershell that's a systems smell to me, and I'd argue you should be using or building a tool).
 
-Coding Bucket List: 
-* Learn Lisp, Haskell, Elixir.
-* Wrap head around functional programming concepts at a deep level.
-* Play in "big" data more & take a dive into **Julia**.
-* Figure out if [**Bazel**](https://bazel.build) is the end-all be-all of build systems.
+I have supported hundreds of concurrent services running at Enterprise scale in Java/Spring, Go, Elixir, Node, Ruby, and Python. 
 
-I have supported hundreds of concurrent services running at Enterprise scale in Java, Node, Elixir, Go, Ruby, and Python. 
-
-I can also get around some frontend frameworks. Most comfortable in React, but can get around in Vue and Angular. I started in Ember and Backbone, and hope to never go back - it inevitably turns into Code Spaghetti!
+I can also navigate frontend frameworks - React, Angular, Vue, Ember, Backbone. I'm far from calling myself a frontend dev, but I started in Ember and Backbone, and eventually moved to React, then Angular
 
 Deployment environments include **Kubernetes**, straight **VM**, and **"serverless"** service architectures (Cloud Functions, Cloud Run/Knative stacks). Often mixed environments where the service fits the job.
 * Cloud: Google Cloud, AWS, some Azure (prefer GCP > Azure > AWS)
@@ -38,14 +32,21 @@ I've designed, provisioned, and maintained a number of scalable data persistence
 * Various Extract/Translate/Load processes
 * Message Queues: RabbitMQ, Google Cloud PubSub/AWS SMS/Azure MQ, Apache Kafka
 
+### Infrastructure as Code Tools
+- Terraform
+- Packer
+- Ainsible
+- Puppet
+- Chef
+- Saltstack
 
-***Fun Fact:*** I'd actually got Elasticsearch running in Kubernertes for Enterprise-scale production before it was ever *officially* supported in containerized, auto-managed environments supporting horizontal scaling. **Don't try that at home, kids!** 
-
-**Infrastructure as Code** tooling primarily in **Terraform**, **Ainsible**, **Puppet**, and **Chef**. Some Saltstack back in the day. 
-
-I prefer constructing VM images as code through Hashicorp Packer (learning NixOS). 
-
-I'm currently trying to figure out how/where the DevOps/SRE practice fits into a blockchain project SDLC.
+### Coding Bucket List:
+- [ ] Master GoLang (this is the future in my field)
+- [ ] Spend more time in Rust.
+- [ ] Learn Lisp, Haskell, Elixir.
+- [ ] Wrap head around functional programming concepts at a deep level.
+- [ ] Play in "big" data more & take a dive into **Julia**.
+- [ ] Figure out if [**Bazel**](https://bazel.build) is the end-all be-all of build systems.
 
 ---
 ## How I Roll
@@ -86,17 +87,6 @@ I love bright colors - hot pink and bright blue are my jam. Since it's not [the 
 - Discovering new (to me) testing tools and patterns - Fuzzing, PIT Mutation, etc.
 
 ---
-### Snotty Opinionation Section!
-Insofar as centralized services are concerned: I really do enjoy [**Google Cloud Platform**](https://cloud.google.com/), [**Azure**](https://azure.microsoft.com/en-us/), and [**Kubernetes**](https://kubernetes.io/). [**Hashicorp**](https://www.hashicorp.com/) stack as well. 
-
-Not all centralized systems are fundamentally "bad". They live for a reason (typically the fact that it's very hard to run a server, or host an application at scale). Privacy and potential antitrust matters aside (yes, that's a *huge* aside), I can recognize that Google is a relatively responsible citizen in the open source community; and GCP is probably the least of the major cloud providers to seek vendor lock-in. Perhaps we can thank [Google's seemingly non-existant deprecation policies](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc) for that.
-
-By comparison, I chose to maintain a healthy suspicion around Azure (still remember the '90s era Microsoft), but they seem to be playing along more considerately now. Jury's still out. 
-
-...I *do* love VSCode, appreciate the [opening of VSCode remote server](https://www.gitpod.io/blog/vscode-server) (good mojo in the dev community), and they haven't wrecked GitHub. So props where props are due, right? 
-
-
----
 ## Fascinating projects (right now)
 
 | Name | Description |
@@ -129,8 +119,7 @@ By comparison, I chose to maintain a healthy suspicion around Azure (still remem
 
 1) The challenges of [inclusive accountability](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/) and simple-to-run *distributed* infrastructure (as the preference of the Web3 paradigm avoids centralization) *are* real challenges. But, you know, that's what makes all this stuff cool and geeky to poke around at. It feels like the old "Web1" days, when anything's possible.
 
----
-## My Profile Stats:
+## Profile Stats:
 Not that it matters, since most my work the last few years has been in private repos outside of GitHub... but I thought this was cool and I liked the colors. Thanks [Anurag Hazra](https://github.com/anuraghazra) for this sweet tally tool. 
 
 I'll use this as inspiration/motivation to get busy on OSS again! 
