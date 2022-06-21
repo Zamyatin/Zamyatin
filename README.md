@@ -74,7 +74,7 @@ I love bright colors - hot pink and bright blue are my jam. Since it's not [the 
 
 ---
 
-## Technology that "Tickles me Nibblets"
+## Technology that Tickles me Insides
 
 - Toolchains that enable [GitOps](https://www.weave.works/technologies/gitops/) at scale
 - Providers, systems, and tools that enable rapid iteration, reduce toil, and make life easier for stakeholders to Get Stuff Done.
