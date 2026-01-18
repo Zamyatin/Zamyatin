@@ -184,8 +184,4 @@ this was cool and I liked the colors. Thanks [Anurag Hazra](https://github.com/a
 
 I'll use this as inspiration/motivation to get busy on OSS again!
 
-`#GitHubStreetCred!!!`
-
-![Raj Singh Github Stats](https://github-readme-stats.vercel.app/api?username=zamyatin&count_private=true&show_icons=true&theme=radical)
-
 [^1]: [Moxie Marlinspike, "My first impressions of web3"](https://moxie.org/2022/01/07/web3-first-impressions.html)
