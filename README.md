@@ -63,10 +63,11 @@ I've designed, provisioned, and maintained a number of scalable data persistence
 
 ### Coding Bucket List:
 
-- [ ] Master GoLang (this is the future in my field)
-- [ ] Spend more time in Rust.
+- [ ] Improve GoLang (this is the future in my field)
+- [ ] Improve Rust skills
+- [ ] Play in Zig
 - [ ] Learn Lisp, Haskell, Elixir.
-- [ ] Wrap head around functional programming concepts at a deep level.
+- [ ] Wrap head around functional programming. Why is this so hard to debug??
 - [ ] Play in "big" data more & take a dive into **Julia**.
 - [ ] Figure out if [**Bazel**](https://bazel.build) is the end-all be-all of build systems.
 
